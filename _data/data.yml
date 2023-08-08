@@ -8,7 +8,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: EvaN Norris
+    name: Evan Norris
     tagline: Computational Imaging 
 
     # Sidebar links
@@ -50,12 +50,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Summarise your career 
 education:
     title: Education
     info:
@@ -79,17 +74,19 @@ experiences:
         time: 2019 - Present
         company: University of Ottawa
         details: |
-          
-            - Bullet point
-            - Bullet point
+          summary
 
       - role: Graduate Teaching Assistant
         time: 2019 - Present
         company: University of Ottawa
         details: |
-          
-            - Bullet point
-            - Bullet point
+          Primarily marked assignments and held office hours for student support in the following courses
+            - PHY 3355: Statistical Thermodynamics (Winter 2023)
+            - PHY 4141/5341: Computational Physics II (Fall 2022)
+            - PHY 3355: Statistical Thermodynamics (Winter 2022)
+            - PHY 2390: Astronomy (Fall 2021)
+            - PHY 2325: Physics in Biology (Winter 2021)
+            - PHY 2311: Waves and Optics (Fall 2019)
 
 
 publications:
