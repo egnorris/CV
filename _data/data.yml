@@ -4,11 +4,11 @@
 
 sidebar:
     position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Eva Norris
+    name: EvaN Norris
     tagline: Computational Imaging 
 
     # Sidebar links
@@ -62,36 +62,15 @@ education:
       - degree: PhD in Physics
         university: University of Ottawa
         time: 2021 - 2025
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+
       - degree: Msc in Physics
         university: University of Ottawa
         time: 2019 - 2021
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+
       - degree: BSc in Physics
         university: Louisiana Tech University
         time: 2015 - 2019
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+
 
 experiences:
     title: Experiences
@@ -100,20 +79,21 @@ experiences:
         time: 2019 - Present
         company: University of Ottawa
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
+          
             - Bullet point
             - Bullet point
 
-Talks:
-    title: Talks
+      - role: Graduate Teaching Assistant
+        time: 2019 - Present
+        company: University of Ottawa
+        details: |
+          
+            - Bullet point
+            - Bullet point
+
+
+publications:
+    title: Publications
     papers:
       - title: Prediction of Optical Scattering from Plasmonic Nanostructures using Deep Convolutional Neural Networks
         link: "https://opg.optica.org/abstract.cfm?uri=CLEO_FS-2023-FW3C.3"
@@ -125,10 +105,6 @@ Talks:
         authors: E. G. Norris, J. Van Der K., L. Ramunno
         conference: Imaging and Applied Optics Congress 2022
 
-
-publications:
-    title: Publications
-    papers:
       - title: Ptychography for Nonlinear Optical Microscopy
         link: "http://dx.doi.org/10.20381/ruor-26868"
         authors: Evan Norris
