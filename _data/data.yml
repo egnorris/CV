@@ -48,9 +48,15 @@ sidebar:
           link:
 
 career-profile:
-    title: Career Profile
+    title: About
     summary: |
-      Summarise your career 
+         Evan Norris is a Ph.D. student in the Department of Physics at the University of Ottawa. His research primarily focuses on the 
+         solution of inverse problems using computational physics. his current work includes the development of a deep learning system 
+         for the prediction of scattered fields by arbitrarily shaped plasmonic nanoparticles and a computational microscopy framework 
+         for orientation imaging of collagen fibrils using second harmonic generation microscopy without interferometry. In the future his 
+         primary research directions include the application of deep learning algorithms for the solution of inverse problems and the further 
+         development of computational phase reconstruction systems.
+
 education:
     title: Education
     info:
@@ -68,19 +74,22 @@ education:
 
 
 experiences:
-    title: Experiences
+    title: Experience
     info:
       - role: Graduate Researcher
         time: 2019 - Present
         company: University of Ottawa
         details: |
-          summary
+          Conducted research primarily in computational microscopy and deep learning. Development of tensorial ptychography algorithms, in the 
+          generation of numerical fibrillar collagen samples, development of numerical imaging diffraction toward the generation of second harmonic
+          generation diffraction measurements, the development and testing of core ptychographic reconstruction algorithms, and development and testing
+          angle retrieval algorithms. Development of machine learning models for inverse design in nanoplasmonics.
 
       - role: Graduate Teaching Assistant
         time: 2019 - Present
         company: University of Ottawa
         details: |
-          Primarily marked assignments and held office hours for student support in the following courses
+          Primarily marked assignments and held office hours for student support in the following courses:
             - PHY 3355: Statistical Thermodynamics (Winter 2023)
             - PHY 4141/5341: Computational Physics II (Fall 2022)
             - PHY 3355: Statistical Thermodynamics (Winter 2022)
@@ -88,9 +97,24 @@ experiences:
             - PHY 2325: Physics in Biology (Winter 2021)
             - PHY 2311: Waves and Optics (Fall 2019)
 
+      - role: Undergraduate Research Assistant
+        time: 2017 - 2019
+        company: Louisiana Tech University
+        details: |
+          Assisted in the development of computer software for the simulation of carbon nano-composites toward material conductivity research. Development
+          of monte carlo optical scattering simulations for the study of optical transmission through aerosols and liquid suspensions.
+
+      - role: Undergraduate Research Fellow
+        time: Summer 2018
+        company: State University of New York at Geneseo
+        details: |
+          Conducted atmospheric optics research, specifically in the development of optical scattering simulations using GPGPU programming
+
+
+
 
 publications:
-    title: Publications
+    title: Talks and Publications
     papers:
       - title: Prediction of Optical Scattering from Plasmonic Nanostructures using Deep Convolutional Neural Networks
         link: "https://opg.optica.org/abstract.cfm?uri=CLEO_FS-2023-FW3C.3"
@@ -105,7 +129,7 @@ publications:
       - title: Ptychography for Nonlinear Optical Microscopy
         link: "http://dx.doi.org/10.20381/ruor-26868"
         authors: Evan Norris
-        conference: 	University of Ottawa, Theses, 2011 -
+        conference: University of Ottawa, Theses, 2011 -
 
 skills:
     title: Skills &amp; Proficiency
