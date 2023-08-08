@@ -13,13 +13,13 @@ sidebar:
 
     # Sidebar links
     email: evangnorris@gmail.com
-    phone: 337 309 2691
+    phone:
     timezone: America/Toronto Timezone
     citizenship:
     website: egnorris.github.io #do not add http://
-    linkedin: [Evan Norris](https://www.linkedin.com/in/evan-norris-5a0285118/)
+    linkedin:
     xing: 
-    github: egnorris
+    github:
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
