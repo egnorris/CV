@@ -13,21 +13,21 @@ sidebar:
 
     # Sidebar links
     email: evangnorris@gmail.com
-    phone:
+    phone: 337 309 2691
     timezone: America/Toronto Timezone
-    citizenship:
+    #citizenship:
     website: egnorris.github.io #do not add http://
-    linkedin:
-    xing: 
-    github:
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: 
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    #linkedin:
+    #xing: 
+    #github:
+    #telegram: # add your nickname without '@' sign
+    #gitlab:
+    #bitbucket:
+    #twitter: 
+    #stack-overflow: # Number/Username, e.g. 123456/alandoe
+    #codewars:
+    #goodreads: # Number-Username, e.g. 123456-alandoe
+    #pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
